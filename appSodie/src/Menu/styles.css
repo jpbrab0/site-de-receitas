@@ -1,0 +1,61 @@
+img{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.tortaDeOreo{
+    height: 210px;
+    width: 340px;
+    border-radius: 10px;
+    margin-left: 25px;
+}
+.receita1{
+    margin-left: 120px;
+    height: 280px;
+    width: 460px;
+    align-items: center;
+    border-radius: 13px;
+    display: inline-table;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+    list-style: none;
+}
+.tortaDeOreo{
+    margin-left: 43px;
+    margin-top: 10px;
+}
+.oreo{
+    color: black;
+    font-size: larger;
+    font-family: sans-serif;
+    margin-left: -3px;
+}
+.botao1{
+    background-color: tomato;
+    color:white;
+    border-radius: 10px;
+    padding: 17px;
+    width: 280px;
+    cursor: pointer;
+    margin-left: 80px;
+    transition-delay: 0.2s;
+}
+.botao1:hover{
+    background-color:rgb(243, 147, 130);
+}
+
+video{
+    margin-top: 100px;
+    margin-left: 10px;
+}
+.bob{
+    margin-left: 5px;
+    text-align: justify;
+}
+.main{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
